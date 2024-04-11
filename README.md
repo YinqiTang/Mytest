@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/YinqiTang/Mytest/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/YinqiTang/Mytest/actions/workflows/R-CMD-check.yaml)
+[![CircleCI build
+status](https://circleci.com/gh/YinqiTang/Mytest.svg?style=svg)](https://circleci.com/gh/YinqiTang/Mytest)
 <!-- badges: end -->
 
 The goal of Test2 is to make sum or multiplication work of two values
