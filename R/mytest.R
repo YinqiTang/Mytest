@@ -1,7 +1,7 @@
 #' Title
 #'
 #' @param x Variable 1
-#' @param y Variable 2
+#' @param y Variable 2, a change here
 #'
 #' @return Product of x and y
 #' @export
